@@ -1,4 +1,4 @@
-bills-to-evernote
+forward-to-evernote
 =================
 
 This is a local replacement for IFTTT who can't forward attachments as an attached file. 
